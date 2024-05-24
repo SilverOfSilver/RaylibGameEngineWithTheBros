@@ -1,0 +1,14 @@
+﻿  raudio.c
+  rcore.c
+C:\Users\Joshua\Desktop\raylib\raylib\src\rlgl.h(3948,84): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\Joshua\Desktop\raylib\raylib\src\rcore.c(859,42): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  rmodels.c
+  rglfw.c
+  rshapes.c
+  rtext.c
+C:\Users\Joshua\Desktop\raylib\raylib\src\rtext.c(2245,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\raylib\raylib\src\rtext.c(2245,82): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\projects\VS2022\build\raylib\bin\x64\Debug\raylib.lib

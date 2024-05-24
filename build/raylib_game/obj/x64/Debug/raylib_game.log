@@ -1,0 +1,14 @@
+﻿  raylib_game.c
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(67,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(73,98): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(77,99): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(81,86): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(81,96): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(81,117): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(85,86): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(85,96): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(85,118): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(89,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(93,61): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\src\raylib_game.c(65,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  raylib_game.vcxproj -> C:\Users\Joshua\Desktop\raylib\raylib-game-template-main\projects\VS2022\build\raylib_game\bin\x64\Debug\raylib_game.exe

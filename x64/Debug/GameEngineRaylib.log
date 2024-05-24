@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(75,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(77,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(83,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(87,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(91,114): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(91,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(91,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(95,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(95,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(95,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(99,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\Source.cpp(103,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameEngineRaylib.vcxproj -> C:\Users\Joshua\Documents\GitHub\RaylibGameEngineWithTheBros\x64\Debug\GameEngineRaylib.exe
